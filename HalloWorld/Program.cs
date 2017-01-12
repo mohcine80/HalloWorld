@@ -12,8 +12,7 @@ namespace HalloWorld
         {
             Console.WriteLine("hallo");
             Console.ReadKey();
-            //Console.WriteLine("ha");
-            //Console.ReadKey();
+            
         }
     }
 }
