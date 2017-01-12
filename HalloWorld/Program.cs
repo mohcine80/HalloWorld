@@ -1,0 +1,19 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace HalloWorld
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("hallo");
+            Console.ReadKey();
+            //Console.WriteLine("ha");
+            //Console.ReadKey();
+        }
+    }
+}
